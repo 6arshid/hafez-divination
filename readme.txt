@@ -1,15 +1,14 @@
-=== Hafez ===
-Contributors: mrlast
+===Fal Hafez ===
+Contributors: mrlast , hassantafreshi
 Tags: hafez, falehafez, حافظ, فال حافظ, 
+Stable tag: 0.0.1
 Requires at least: 4.7.0
-Stable tag: trunk
-Tested up to: 5.7
-Requires PHP: 5.4
+Tested up to: 5.8.1
+Requires PHP: 5.4 or higher
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-افزونه وردپرس فال حافظ شیرازی
 
 == Description ==
 
-افزونه وردپرس فال حافظ شیرازی
+Fal Hafez Shirazi on persian language
